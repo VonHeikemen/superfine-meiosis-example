@@ -1,5 +1,4 @@
 dependencies:
-  raj: 1.0.0
   superfine: 6.0.1
 devDependencies:
   babel-core: 6.26.3
@@ -3651,10 +3650,6 @@ packages:
     hasBin: true
     resolution:
       integrity: sha1-hJY/jJwmuULhU/7rU6rnRlK34LI=
-  /raj/1.0.0:
-    dev: false
-    resolution:
-      integrity: sha512-knaaqTd7wHdiFtLrbIWNYK0Hpv+RzMdNrhndWMZdqO4LbWDmdipas6/o/PpAEODCNBpWiRdDuiPplTFguC0itQ==
   /randombytes/2.0.6:
     dependencies:
       safe-buffer: 5.1.2
@@ -4486,5 +4481,4 @@ specifiers:
   babel-core: ^6.26.3
   babel-plugin-transform-object-rest-spread: ^6.26.0
   parcel-bundler: ^1.9.7
-  raj: ^1.0.0
   superfine: ^6.0.1
